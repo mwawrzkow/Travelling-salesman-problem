@@ -1,0 +1,9 @@
+[submodule "C++"]
+	path = C++
+	url = git@github.com:mwawrzkow/Travelling-salesman-problem.git
+[submodule "Python"]
+	path = Python
+	url = git@github.com:mwawrzkow/Travelling-salesman-problem.git
+[submodule "Java"]
+	path = Java
+	url = git@github.com:mwawrzkow/Travelling-salesman-problem.git
